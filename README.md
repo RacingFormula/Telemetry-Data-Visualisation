@@ -1,2 +1,7 @@
 # Telemetry-Data-Visualisation
- A tool for visualising telemetry data in motorsports, including speed, position, and sector performance analysis.
+
+# Overview
+This script provides:
+- Real-time telemetry visualisation with matplotlib.
+- Speed and position graphing for laps.
+- Sector time comparisons across multiple laps.
